@@ -1,6 +1,4 @@
-# Introduction
-
-Hello from haska!
+# Test page
 
 # Heading level 1
 
