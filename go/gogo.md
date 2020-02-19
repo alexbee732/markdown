@@ -1,2 +1,2 @@
-# Gogo
+# Gogo!
 Go away!
