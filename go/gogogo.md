@@ -1,3 +1,0 @@
-# Gogogo
-
-Go go
