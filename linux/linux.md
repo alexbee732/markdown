@@ -1,3 +1,5 @@
-# Linux
+# Linux basics
 
-Linux page
+'df' - место на дисках
+
+
